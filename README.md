@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2529-range-product-queries-of-powers) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
