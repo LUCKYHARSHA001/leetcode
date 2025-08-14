@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0125-valid-palindrome) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
 | ------- |
