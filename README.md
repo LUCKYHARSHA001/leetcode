@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0029-divide-two-integers) |
 | [0326-power-of-three](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0900-reordered-power-of-2) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
