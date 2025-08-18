@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2529-range-product-queries-of-powers](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
