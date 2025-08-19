@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/LUCKYHARSHA001/leetcode/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Sorting
 |  |
 | ------- |
