@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0900-reordered-power-of-2](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Counting
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
