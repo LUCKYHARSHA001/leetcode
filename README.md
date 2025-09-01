@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/LUCKYHARSHA001/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1917-maximum-average-pass-ratio](https://github.com/LUCKYHARSHA001/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/LUCKYHARSHA001/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/LUCKYHARSHA001/leetcode/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/LUCKYHARSHA001/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1917-maximum-average-pass-ratio](https://github.com/LUCKYHARSHA001/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Bucket Sort
 |  |
 | ------- |
