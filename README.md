@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/LUCKYHARSHA001/leetcode/tree/master/0148-sort-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LUCKYHARSHA001/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
